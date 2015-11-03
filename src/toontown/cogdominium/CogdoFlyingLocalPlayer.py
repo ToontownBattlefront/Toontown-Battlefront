@@ -871,9 +871,9 @@ class CogdoFlyingLocalPlayer(CogdoFlyingPlayer):
             self._collideSfx.play()
         self.orthoWalk.start()
         self.setPropellerState(CogdoFlyingLocalPlayer.PropStates.Normal)
-        self.ignore('control')
+        self.ignore(base.JUMP)
         self.ignore('lcontrol')
-        self.acceptOnce('control', self.pressedControlWhileRunning)
+        self.acceptOnce(base.JUMP, self.pressedControlWhileRunning)
         self.acceptOnce('lcontrol', self.pressedControlWhileRunning)
 
     def filterRunning(self, request, args):
