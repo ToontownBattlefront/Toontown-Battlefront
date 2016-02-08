@@ -6,7 +6,7 @@
 ### *Toontown Crystal is a remake of Disney's dead MMO, Toontown Online.* ###
 
 ## Commiting ##
-Please do **not ** change one file per commit. Please change as many as you want, unless you're commiting two changes to the source code. Feel free to fix / add anything wanted in to-do list [here](https://github.com/vincent15k/Toontown-Crystal-Master/issues/2).
+Please do **not ** change one file per commit. Please change as many as you want, unless you're commiting two changes to the source code. 
 
 ## Removing ##
 If you wish to remove someone else's commit, please consult them, or a head staff member first. If you do not abide this rule, it will lead to punishment.
