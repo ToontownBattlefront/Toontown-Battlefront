@@ -13,4 +13,6 @@ If you wish to remove someone else's commit, please consult them, or a head staf
 ## Helping out! ##
 If you find a bug, or want to help out the source, feel free to submit a pull request to our source code! Our team will try to get to it as soon as possible, as we're always glad for help from anyone!
 
+# SAFETY WARNING #
+#### Please run atni-virus and malware protection before opening the files to ensure that you and your computer remain safe. 
 
